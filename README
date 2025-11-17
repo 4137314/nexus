@@ -1,0 +1,10 @@
+Nexus – Decentralized P2P Engine
+================================
+
+Nexus is a lightweight peer-to-peer (P2P) engine built on **GNUnet**. It provides a common networking layer for GNU projects, enabling:
+
+- Decentralized file and code sharing  
+- Distributed computation and task execution  
+- Synchronization of simulation data and AI models  
+
+All nodes communicate securely using end-to-end encryption. Nexus is modular: a **core daemon** manages the network, while **client libraries** allow projects like Holos, Chrono, and Gdev to connect easily.
